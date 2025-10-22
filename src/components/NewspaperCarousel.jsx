@@ -3,13 +3,13 @@ import { motion, AnimatePresence } from "framer-motion";
 import { MoveLeft, MoveRight } from "lucide-react";
 import flipSound from "../assets/papperflip.wav";
 import img2 from "../assets/Img12.jpg";
-import img4 from "../assets/img4.jpg";
-import img8 from "../assets/img8.jpg";
+import img4 from "../assets/Img4.jpg";
+import img8 from "../assets/Img8.jpg";
 import newsletter from "../assets/newsletter.jpg";
 import ofsted from "../assets/ofsted.jpg";
-import img10 from "../assets/img10.jpg";
-import img11 from "../assets/img11.jpg";
-import img16 from "../assets/img16.jpg";
+import img10 from "../assets/Img10.jpg";
+import img11 from "../assets/Img11.jpg";
+import img16 from "../assets/Img16.jpg";
 import ourvision from "../assets/ourvision.jpg";
 
 
