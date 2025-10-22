@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom"; // ✅ Added missing import
-import img19 from "../../assets/img19.jpg";
+import img19 from "../../assets/Img19.jpg";
 import contactus from "../../assets/contactus.jpg";
 import admissions from "../../assets/admissions.jpg";
 import prospectus from "../../assets/prospectus.jpg";
