@@ -1,6 +1,6 @@
 // src/pages/TheSchoolDay.jsx
 import React from "react";
-import { motion } from "framer-motion";
+// import { motion } from "framer-motion";
 import { Clock } from "lucide-react";
 import { Link } from "react-router-dom";
 import pp1 from "../../assets/pp1.jpg";

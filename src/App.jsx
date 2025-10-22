@@ -16,7 +16,7 @@ import Admissions from "./pages/joinus/Admissions";
 import Vacancies from "./pages/joinus/Vacancies";
 // import TermDates from "./pages/information/TermDates";
 import FundingReports from "./pages/information/FundingReports";
-import TheSchoolDay from "./pages/information/TheschoolDay";
+import TheSchoolDay from "./pages/information/TheSchoolDay";
 import SpecialEducationalNeeds from "./pages/information/SpecialEducationalNeeds";
 import YoungCarers from "./pages/information/YoungCarers";
 import StatutoryInformation from "./pages/information/StatutoryInformation";
