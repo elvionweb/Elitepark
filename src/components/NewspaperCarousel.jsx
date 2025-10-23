@@ -27,56 +27,56 @@ const NewspaperCarousel = () => {
       title: "Our Achievements",
       image: img4,
       content:
-        "We are proud of our exceptional results, community projects, and awards in innovation, STEM, and creative arts.",
+        "We are proud of our exceptional results.",
     },
     {
       id: 3,
-      title: "Parents & Community",
+      title: "Discipline",
       image: img8,
       content:
-        "We believe education is a shared journey between the school, parents, and the wider community.",
+        "Education is a shared journey.",
     },
     {
       id: 4,
-      title: "Parents & Community",
+      title: "Student Story",
       image: newsletter,
       content:
-        "At ElitePark, we see education as a shared journey between the school, parents, and the wider community.",
+        "The school, parents, and the community.",
     },
     {
       id: 5,
-      title: "Parents & Community",
+      title: "Parents and Community",
       image: ofsted,
       content:
         "Education, to us, is a partnership built on trust and shared responsibility.",
     },
     {
       id: 6,
-      title: "Parents & Community",
+      title: "Confidence",
       image: img10,
       content:
-        "We believe every child’s success is born from unity between the school, the home, and the community.",
+        "We believe every child’s success is born from unity.",
     },
     {
       id: 7,
-      title: "Parents & Community",
+      title: "Inpact",
       image: img11,
       content:
         "At ElitePark, learning goes beyond classrooms.",
     },
     {
       id: 8,
-      title: "Parents & Community",
+      title: "Vision",
       image: img16,
       content:
-        " We believe that when schools, families, and communities work in harmony, we raise not just achievers, but visionary individuals who will shape tomorrow's world.",
+        " We raise not just achievers who will shape tomorrow's world.",
     },
     {
       id: 9,
-      title: "Parents & Community",
+      title: "Growth",
       image: ourvision,
       content:
-        "We see education as a journey we take together the school, parents, and the community walking side by side.",
+        "Progress and walking side by side.",
     },
   ];
 

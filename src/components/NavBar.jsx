@@ -107,7 +107,7 @@ export default function Navbar() {
         {/* Logo */}
 
         <Link
-                to="http://localhost:5173/">
+                to="/">
                 <h1 className="text-xl sm:text-2xl font-bold text-blue-600 whitespace-nowrap">
           ElitePark
         </h1>

@@ -6,7 +6,6 @@ import { Link } from "react-router-dom";
 import Slider from "react-slick";
 import Video2 from "../assets/Video2.mp4";
 
-
 import image2 from "../assets/Img2.jpg";
 import image5 from "../assets/Img5.jpg";
 import image12 from "../assets/Img12.jpg";
@@ -19,7 +18,6 @@ import Water from "../assets/Water.jpg";
 import Wind from "../assets/Wind.jpg";
 import Fire from "../assets/Fire.jpg";
 import Earth from "../assets/Earth.jpg";
-
 
 const Home = () => {
   // Carousel settings
