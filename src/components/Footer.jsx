@@ -73,7 +73,7 @@ export default function Footer() {
       {/* Bottom Bar */}
       <div className="py-3 text-center text-xs text-green-100">
         © {new Date().getFullYear()} ElitePark Academy Created by{" "}
-        <Link to="http://elvionweb.com">
+        <Link to="https://elvionweb.com/" target="blank" rel="noopener noreferrer">
           <span className="text-cyan-300 font-medium hover:underline cursor-pointer">
             Elvionweb
           </span>
